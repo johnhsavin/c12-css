@@ -1,0 +1,30 @@
+body{
+    background-color:blue;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#box {
+background-color:darkblue;
+width: 400px;
+height: 250px;
+border: 2px solid yellow;
+margin: auto;
+border-radius: 20px;
+}
+
+#circle {
+background-color:darkblue;
+width: 350px;
+height: 350px;
+border: 2px solid yellow;
+margin: auto;
+border-radius: 200px;
+}
+
+.box__text {
+padding: 90px;
+}
+
+.circle__text {
+padding: 100px;
+}
